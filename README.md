@@ -1,2 +1,3 @@
 # Stress Monitering Device
- 
+Stress is one of the major contributors to various health problems, including heart disease, high blood pressure, diabetes, and mental health issues. The purpose of this project is to create a comprehensive, real-time stress monitoring system using multiple sensors that detect various stress-related parameters, such as heart rate, skin conductivity (GSR), and temperature. The data is displayed on an OLED screen and transmitted wirelessly to the Blynk app for visualization and further analytics.
+This report describes the design, implementation, and testing of a prototype for a Stress Monitoring Device, using an Arduino R4 WiFi board, MAX105 heartbeat sensor, BME280 temperature sensor, and a GSR sensor. The project demonstrates how microcontroller-based systems can be used for health monitoring and real-time data analysis.
